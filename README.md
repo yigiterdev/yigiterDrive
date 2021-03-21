@@ -1,12 +1,12 @@
-# React Authentication with Firebase and React-Router
+# yigiterDrive
 
-I made this project to improve myself at React. This project includes React, Firebase, React-Router. original version of the [Web Dev Simplified](https://github.com/WebDevSimplified/React-Firebase-Auth)
+This project is a Google Drive Clone. I made this project to improve myself at React. This project includes React, Firebase, React-Router,Bootstrap. original version of the [Web Dev Simplified](https://www.youtube.com/watch?v=6XTRElVAZ9Y&list=LL&index=12&t=5328s&ab_channel=WebDevSimplified)
 
-### You can look at original version of project made by [Web Dev Simplified](https://www.youtube.com/watch?v=PKwu15ldZ7k&list=LL&index=3&ab_channel=WebDevSimplified)
+### You can look at original version of project made by [Web Dev Simplified](https://www.youtube.com/watch?v=6XTRElVAZ9Y&list=LL&index=12&t=5328s&ab_channel=WebDevSimplified)
 
 ## Live Demo
 
-You can look at project demo in [here](https://react-auth-yigiterdev.netlify.app/).
+You can look at project demo in [here](https://yigiterdrive.vercel.app/login).
 
 ## Project setup
 
